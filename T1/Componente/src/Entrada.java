@@ -1,5 +1,3 @@
-public class Entrada {
-    public static void main(String[] args){
-        System.out.println("Mi primer programa");
+ void main() {
+    System.out.println("Hola mundo");
     }
-}
